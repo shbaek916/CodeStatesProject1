@@ -1,4 +1,4 @@
-# CodeStates Project 1
+# Personal_project_Starcraft_ver.2
 ## _스타크래프트 2 승패 정량적 분석_
 
 #### 개요 & 프로젝트의 목적
